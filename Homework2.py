@@ -45,7 +45,6 @@ def get_smallest_number_in_list(list):
 # ie. [2, 5, 8, 2, 3, 7] becomes [5, 3, 7]
 # If there are no odd numbers in the whole list, return an empty list
 def return_odd_numbers(list):
-    qe12asd
     pass
 
 
